@@ -3,4 +3,6 @@
 
 Lilith is your solution for 2D game development.
 
+Made by Sea Ferret
+
 ***
